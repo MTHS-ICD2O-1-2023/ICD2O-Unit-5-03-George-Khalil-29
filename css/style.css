@@ -19,20 +19,20 @@
 }
 
 .page-content {
-  color: hsl(0, 0%, 100%);
+  color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 .page-content-answer {
-  color: black;
+  color: rgb(0 0 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 img {
   height: auto;
-  width: 350px;
+  width: 250px;
   float: right;
 }
 
